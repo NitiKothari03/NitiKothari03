@@ -2,7 +2,7 @@
 
 🎓 MS Software Engineering Systems @ Northeastern University, Boston  
 💼 Ex-Software Engineering Intern @ Munsow Technologies (2.5 years, 10,000+ daily users)  
-🌎 Seeking Summer 2027 SWE Internships in the US  
+🌱 Currently exploring distributed systems and ML at scale
 📍 Boston, MA
 
 ---
